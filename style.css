@@ -439,9 +439,15 @@
         color: #FFFFFF;
         
     }
-    #botao:hover{
+    #botao:hover
+    {
         cursor: pointer;
         color: yellow;
+    }
+
+    .card-highlight 
+    {
+        box-shadow: 10px 10px grey;
     }
 
 }
